@@ -170,7 +170,7 @@ Regular
 
 ## 字体传奇特战体
 
-`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Font Legend/Flama-Basic.otf`
+`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Font Legend/Font Legend-Warfare.ttf`
 
 ​      
 
