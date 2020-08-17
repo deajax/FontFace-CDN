@@ -14,9 +14,13 @@
 	font-family: "Flama";
 	font-weight: normal;
 	font-style: normal;
-	src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Flama/Flama-Basic.otf') format('truetype');
+	src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Flama/Flama-Basic.otf') format('opentype');
 }
 ```
+
+> otf格式：format('opentype')
+>
+> ttf格式：format('truetype')
 
 ​      
 
