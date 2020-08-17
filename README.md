@@ -1,15 +1,15 @@
 # FontFace
 字体使用CDN
 
+​    
 
-
-#### Flama
+## Flama
 
 `https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Flama/Flama-Basic.otf`
 
-   
+​    
 
-#### DIN
+## DIN
 
 **Default**
 
@@ -65,7 +65,7 @@ Regular
 
    
 
-#### Gray Design
+## Gray Design
 
 Bold
 
@@ -81,7 +81,7 @@ Thin
 
    
 
-#### 阿里巴巴普惠体
+## 阿里巴巴普惠体
 
 Heavy
 
@@ -95,13 +95,13 @@ Regular
 
    
 
-#### 字体传奇特战体
+## 字体传奇特战体
 
 `https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Font Legend`
 
 ​    
 
-#### 站酷字体
+## 站酷字体
 
 **站酷庆科黄油体**
 
