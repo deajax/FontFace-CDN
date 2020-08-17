@@ -7,14 +7,16 @@
 
 # 使用方法
 
-使用 *@font-face* 来引入字体链接
+使用 `@font-face` 来引入字体链接
 
-`@font-face {
+```
+@font-face {
 	font-family: "Flama";
 	font-weight: normal;
 	font-style: normal;
 	src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Flama/Flama-Basic.otf');
-}`
+}
+```
 
 ​      
 
