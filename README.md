@@ -14,7 +14,7 @@
 	font-family: "Flama";
 	font-weight: normal;
 	font-style: normal;
-	src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Flama/Flama-Basic.otf');
+	src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Flama/Flama-Basic.otf') format('truetype');
 }
 ```
 
