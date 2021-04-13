@@ -152,19 +152,19 @@ Thin
 
 Heavy
 
-`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/Alibaba-PuHuiTi-Heavy.otf`
+`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/PuHuiTi/Alibaba-PuHuiTi-Heavy.otf`
 
 Bold
 
-`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/Alibaba-PuHuiTi-Bold.otf`
+`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/PuHuiTi/Alibaba-PuHuiTi-Bold.otf`
 
 Medium
 
-`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/Alibaba-PuHuiTi-Medium.otf`
+`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/PuHuiTi/Alibaba-PuHuiTi-Medium.otf`
 
 Regular
 
-`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/Alibaba-PuHuiTi-Regular.otf`
+`https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/PuHuiTi/Alibaba-PuHuiTi-Regular.otf`
 
 ​        
 
