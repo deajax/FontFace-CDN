@@ -170,7 +170,6 @@ Regular
 
 ## 阿里汉仪智能黑体
 
-Regular (尚未启用)
 
 `https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/HYaiHei/AliHYAiHei.ttf`
 
