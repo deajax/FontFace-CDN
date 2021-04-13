@@ -1,233 +1,30 @@
-@font-face {
-  font-family: 'Flama';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Flama/Flama-Basic.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: 900;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-Black.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: 900;
-  font-style: italic;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-BlackItalic.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: bold;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-Bold.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: bold;
-  font-style: italic;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-BoldItalic.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: 500;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-Medium.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: 500;
-  font-style: italic;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-MediumItalic.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-Regular.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: normal;
-  font-style: italic;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-RegularItalic.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: lighter;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-Light.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DIN';
-  font-weight: lighter;
-  font-style: italic;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DIN-LightItalic.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINCond';
-  font-weight: 900;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINCond-Black.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINCond';
-  font-weight: bold;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINCond-Bold.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINCond';
-  font-weight: 500;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINCond-Medium.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINCond';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINCond-Regular.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINCond';
-  font-weight: lighter;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINCond-Light.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINPro';
-  font-weight: 900;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINPro-Black.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINPro';
-  font-weight: bold;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINPro-Bold.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINPro';
-  font-weight: 500;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINPro-Medium.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINPro';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINPro-Regular.otf') format('opentype');
-}
-@font-face {
-  font-family: 'DINPro';
-  font-weight: lighter;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/DIN/DINPro-Light.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Gray Design';
-  font-weight: bold;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Gray Design/Gray Design_Bold.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Gray Design';
-  font-weight: 500;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Gray Design/Gray Design_Medium.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Gray Design';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Gray Design/Gray Design_Regular.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Gray Design';
-  font-weight: lighter;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Gray Design/Gray Design_Light.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Gray Design';
-  font-weight: 200;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Gray Design/Gray Design_Thin.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Alibaba';
-  font-weight: 900;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/Alibaba-PuHuiTi-Heavy.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Alibaba';
-  font-weight: bold;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/Alibaba-PuHuiTi-Bold.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Alibaba';
-  font-weight: 500;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/Alibaba-PuHuiTi-Medium.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Alibaba';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Alibaba/Alibaba-PuHuiTi-Regular.otf') format('opentype');
-}
-@font-face {
-  font-family: 'Font Legend';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Font Legend/Font Legend-Warfare.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'QingKeHuangYouTi';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/ZCOOL/zcool QingKeHuangYouTi.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'WenYiTi';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/ZCOOL/zcool WenYiTi.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'XiaoWei';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/ZCOOL/zcool XiaoWeiLogoTi.otf') format('opentype');
-}
-@font-face {
-  font-family: 'KuHeiTi';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/ZCOOL/zcool KuHeiTi.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'KuaiLeTi';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/ZCOOL/zcool KuaiLeTi2016.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'GaoDuanHei';
-  font-weight: normal;
-  font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/ZCOOL/zcool GaoDuanHei.ttf') format('truetype');
-}
+@import "../../src/font.css";
+
 * {
-  box-sizing: border-box;
+    box-sizing: border-box
 }
+
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  margin: 0;
-  padding: 40px;
-  background: #f5f5f5;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size  : 16px;
+    line-height: 1.5;
+    margin     : 0;
+    padding    : 40px;
+    background : #f5f5f5
+}
+
+.flama {
+    font-family: 'Flama'
+}
+
+.DIN {
+    font-family: 'DIN'
+}
+
+.DINCond {
+    font-family: 'DINCond'
+}
+
+.DINPro {
+    font-family: 'DINPro'
 }

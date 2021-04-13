@@ -1,0 +1,247 @@
+@font-face {
+    font-family: 'Flama';
+    src        : url('src/fonts/Flama/Flama-Basic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 900;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DIN-Black.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 900;
+    font-style : italic;
+    src        : url('src/fonts/DIN/DIN-BlackItalic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 700;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DIN-Bold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 700;
+    font-style : italic;
+    src        : url('src/fonts/DIN/DIN-BoldItalic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 500;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DIN-Medium.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 500;
+    font-style : italic;
+    src        : url('src/fonts/DIN/DIN-MediumItalic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 400;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DIN-Regular.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 400;
+    font-style : italic;
+    src        : url('src/fonts/DIN/DIN-RegularItalic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 100;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DIN-Light.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DIN';
+    font-weight: 100;
+    font-style : italic;
+    src        : url('src/fonts/DIN/DIN-LightItalic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINCond';
+    font-weight: 900;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINCond-Black.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINCond';
+    font-weight: 700;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINCond-Bold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINCond';
+    font-weight: 500;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINCond-Medium.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINCond';
+    font-weight: 400;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINCond-Regular.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINCond';
+    font-weight: 100;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINCond-Light.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINPro';
+    font-weight: 900;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINPro-Black.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINPro';
+    font-weight: 700;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINPro-Bold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINPro';
+    font-weight: 500;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINPro-Medium.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINPro';
+    font-weight: 400;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINPro-Regular.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'DINPro';
+    font-weight: 100;
+    font-style : normal;
+    src        : url('src/fonts/DIN/DINPro-Light.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gray Design';
+    font-weight: 700;
+    font-style : normal;
+    src        : url('src/fonts/Gray Design/Gray Design_Bold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gray Design';
+    font-weight: 500;
+    font-style : normal;
+    src        : url('src/fonts/Gray Design/Gray Design_Medium.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gray Design';
+    font-weight: 400;
+    font-style : normal;
+    src        : url('src/fonts/Gray Design/Gray Design_Regular.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gray Design';
+    font-weight: 200;
+    font-style : normal;
+    src        : url('src/fonts/Gray Design/Gray Design_Light.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gray Design';
+    font-weight: 100;
+    font-style : normal;
+    src        : url('src/fonts/Gray Design/Gray Design_Thin.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Alibaba-PuHuiTi';
+    font-weight: 900;
+    font-style : normal;
+    src        : url('src/fonts/Alibaba/PuHuiTi/Alibaba-PuHuiTi-Heavy.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Alibaba-PuHuiTi';
+    font-weight: 700;
+    font-style : normal;
+    src        : url('src/fonts/Alibaba/PuHuiTi/Alibaba-PuHuiTi-Bold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Alibaba-PuHuiTi';
+    font-weight: 500;
+    font-style : normal;
+    src        : url('src/fonts/Alibaba/PuHuiTi/Alibaba-PuHuiTi-Medium.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Alibaba-PuHuiTi';
+    font-weight: 400;
+    font-style : normal;
+    src        : url('src/fonts/Alibaba/PuHuiTi/Alibaba-PuHuiTi-Regular.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Alibaba-HYaiHei';
+    src        : url('../src/fonts/Alibaba/HYaiHei/AliHYAiHei.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'Font Legend';
+    src        : url('src/fonts/Font Legend/Font Legend-Warfare.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'QingKeHuangYouTi';
+    src        : url('src/fonts/ZCOOL/zcool QingKeHuangYouTi.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'WenYiTi';
+    src        : url('src/fonts/ZCOOL/zcool WenYiTi.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'XiaoWei';
+    src        : url('src/fonts/ZCOOL/zcool XiaoWeiLogoTi.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'KuHeiTi';
+    src        : url('src/fonts/ZCOOL/zcool KuHeiTi.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'KuaiLeTi';
+    src        : url('src/fonts/ZCOOL/zcool KuaiLeTi2016.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'GaoDuanHei';
+    src        : url('src/fonts/ZCOOL/zcool GaoDuanHei.ttf') format('truetype')
+}
