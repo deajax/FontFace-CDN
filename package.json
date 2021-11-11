@@ -1,0 +1,19 @@
+{
+  "name": "fontface-cdn",
+  "version": "1.0.2",
+  "description": "font cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deajax/FontFace-CDN.git"
+  },
+  "author": "deajax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deajax/FontFace-CDN/issues"
+  },
+  "homepage": "https://github.com/deajax/FontFace-CDN#readme"
+}
