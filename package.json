@@ -1,6 +1,6 @@
 {
   "name": "fontface-cdn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "font cdn",
   "main": "index.js",
   "scripts": {
