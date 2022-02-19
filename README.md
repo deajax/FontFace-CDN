@@ -14,7 +14,7 @@
 	font-family: "Flama";
 	font-weight: normal;
 	font-style: normal;
-	src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/字体目录/字体名称.后缀') format('opentype');
+	src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/fonts/字体目录/字体名称.后缀') format('opentype');
 }
 ```
 
